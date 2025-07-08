@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  background: #f5f5f5;
+  padding: 20px;
+}
+
+h1 {
+  color: #1d3557;
+}
+
+ul {
+  background: white;
+  padding: 10px;
+  border-radius: 10px;
+}
